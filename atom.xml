@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>smile</title>
+  <title>蓝色星球</title>
   
   
   <link href="http://sky.longan.plus/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://sky.longan.plus/</id>
   
   <author>
-    <name>jerry</name>
+    <name>smile</name>
     
   </author>
   
