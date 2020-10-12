@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://sky.longan.plus/categories/index.html</loc>
+    
+    <lastmod>2020-10-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://sky.longan.plus/tags/index-1.html</loc>
+    
+    <lastmod>2020-10-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://sky.longan.plus/tags/index.html</loc>
+    
+    <lastmod>2020-10-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://sky.longan.plus/2020/10/13/hello-world%20(copy)/</loc>
+    
+    <lastmod>2020-10-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://sky.longan.plus/2020/10/13/hello-world/</loc>
+    
+    <lastmod>2020-10-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://sky.longan.plus/friend/index.html</loc>
     
     <lastmod>2020-10-12</lastmod>
@@ -50,27 +85,6 @@
     
   </url>
   
-  <url>
-    <loc>http://sky.longan.plus/tags/index.html</loc>
-    
-    <lastmod>2020-10-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://sky.longan.plus/2020/10/11/test/</loc>
-    
-    <lastmod>2020-10-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://sky.longan.plus/2020/10/11/hello-world/</loc>
-    
-    <lastmod>2020-10-11</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://sky.longan.plus/</loc>
@@ -80,6 +94,34 @@
   </url>
 
   
+  <url>
+    <loc>http://sky.longan.plus/tags/jQuery/</loc>
+    <lastmod>2020-10-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://sky.longan.plus/tags/%E8%A1%A8%E6%A0%BC/</loc>
+    <lastmod>2020-10-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://sky.longan.plus/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/</loc>
+    <lastmod>2020-10-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://sky.longan.plus/categories/web%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2020-10-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
