@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://sky.longan.plus/about/index.html</loc>
+    <loc>https://azusr.github.io/about/index.html</loc>
     
     <lastmod>2020-10-14</lastmod>
     
   </url>
   
   <url>
-    <loc>http://sky.longan.plus/friend/index.html</loc>
+    <loc>https://azusr.github.io/friend/index.html</loc>
     
     <lastmod>2020-10-14</lastmod>
     
   </url>
   
   <url>
-    <loc>http://sky.longan.plus/2020/10/13/hello-world/</loc>
+    <loc>https://azusr.github.io/2020/10/13/hello-world/</loc>
     
     <lastmod>2020-10-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://sky.longan.plus/categories/index.html</loc>
+    <loc>https://azusr.github.io/categories/index.html</loc>
     
     <lastmod>2020-10-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://sky.longan.plus/tags/index-1.html</loc>
+    <loc>https://azusr.github.io/tags/index-1.html</loc>
     
     <lastmod>2020-10-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://sky.longan.plus/tags/index.html</loc>
+    <loc>https://azusr.github.io/tags/index.html</loc>
     
     <lastmod>2020-10-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://sky.longan.plus/album/index.html</loc>
+    <loc>https://azusr.github.io/album/index.html</loc>
     
     <lastmod>2020-10-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://sky.longan.plus/media/index.html</loc>
+    <loc>https://azusr.github.io/media/index.html</loc>
     
     <lastmod>2020-10-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://sky.longan.plus/message/index.html</loc>
+    <loc>https://azusr.github.io/message/index.html</loc>
     
     <lastmod>2020-10-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://sky.longan.plus/self-talking/index.html</loc>
+    <loc>https://azusr.github.io/music/index.html</loc>
     
     <lastmod>2020-10-12</lastmod>
     
   </url>
   
   <url>
-    <loc>http://sky.longan.plus/music/index.html</loc>
+    <loc>https://azusr.github.io/self-talking/index.html</loc>
     
     <lastmod>2020-10-12</lastmod>
     
@@ -80,7 +80,7 @@
   
 
   <url>
-    <loc>http://sky.longan.plus/</loc>
+    <loc>https://azusr.github.io/</loc>
     <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -88,14 +88,14 @@
 
   
   <url>
-    <loc>http://sky.longan.plus/tags/%E8%AF%AD%E6%B3%95/</loc>
+    <loc>https://azusr.github.io/tags/%E8%AF%AD%E6%B3%95/</loc>
     <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://sky.longan.plus/tags/hexo/</loc>
+    <loc>https://azusr.github.io/tags/hexo/</loc>
     <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -104,7 +104,7 @@
 
   
   <url>
-    <loc>http://sky.longan.plus/categories/hexo/</loc>
+    <loc>https://azusr.github.io/categories/hexo/</loc>
     <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

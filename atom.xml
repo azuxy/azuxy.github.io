@@ -3,11 +3,11 @@
   <title>蓝色星球</title>
   
   
-  <link href="http://sky.longan.plus/atom.xml" rel="self"/>
+  <link href="https://azusr.github.io/atom.xml" rel="self"/>
   
-  <link href="http://sky.longan.plus/"/>
+  <link href="https://azusr.github.io/"/>
   <updated>2020-10-12T17:10:10.883Z</updated>
-  <id>http://sky.longan.plus/</id>
+  <id>https://azusr.github.io/</id>
   
   <author>
     <name>smile</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://sky.longan.plus/2020/10/13/hello-world/"/>
-    <id>http://sky.longan.plus/2020/10/13/hello-world/</id>
+    <link href="https://azusr.github.io/2020/10/13/hello-world/"/>
+    <id>https://azusr.github.io/2020/10/13/hello-world/</id>
     <published>2020-10-12T17:10:10.883Z</published>
     <updated>2020-10-12T17:10:10.883Z</updated>
     
@@ -31,12 +31,12 @@
     
     
     
-    <category term="hexo" scheme="http://sky.longan.plus/categories/hexo/"/>
+    <category term="hexo" scheme="https://azusr.github.io/categories/hexo/"/>
     
     
-    <category term="语法" scheme="http://sky.longan.plus/tags/%E8%AF%AD%E6%B3%95/"/>
+    <category term="语法" scheme="https://azusr.github.io/tags/%E8%AF%AD%E6%B3%95/"/>
     
-    <category term="hexo" scheme="http://sky.longan.plus/tags/hexo/"/>
+    <category term="hexo" scheme="https://azusr.github.io/tags/hexo/"/>
     
   </entry>
   
