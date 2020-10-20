@@ -45,7 +45,7 @@
     <link href="https://azusr.github.io/2019/09/19/%E6%B5%8B%E8%AF%95/"/>
     <id>https://azusr.github.io/2019/09/19/%E6%B5%8B%E8%AF%95/</id>
     <published>2019-09-19T14:10:43.000Z</published>
-    <updated>2020-10-14T13:14:26.316Z</updated>
+    <updated>2020-10-20T15:33:19.383Z</updated>
     
     <content type="html"><![CDATA[<hr><p>describe</p><a id="more"></a><p>content</p>]]></content>
     
@@ -64,9 +64,9 @@
     <category term="categories-demo" scheme="https://azusr.github.io/categories/categories-demo/"/>
     
     
-    <category term="tags-demo" scheme="https://azusr.github.io/tags/tags-demo/"/>
+    <category term="tags-demo1" scheme="https://azusr.github.io/tags/tags-demo1/"/>
     
-    <category term="demo" scheme="https://azusr.github.io/tags/demo/"/>
+    <category term="tags-demo2" scheme="https://azusr.github.io/tags/tags-demo2/"/>
     
   </entry>
   
