@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://azusr.github.io/2020/11/09/post-02-mysql/</loc>
-    
-    <lastmod>2020-11-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://azusr.github.io/2020/10/30/post-01-mysql/</loc>
-    
-    <lastmod>2020-11-09</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://azusr.github.io/2019/09/19/%E6%B5%8B%E8%AF%95/</loc>
     
     <lastmod>2020-10-20</lastmod>
@@ -102,7 +88,7 @@
 
   <url>
     <loc>https://azusr.github.io/</loc>
-    <lastmod>2020-11-09</lastmod>
+    <lastmod>2021-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -110,49 +96,28 @@
   
   <url>
     <loc>https://azusr.github.io/tags/%E8%AF%AD%E6%B3%95/</loc>
-    <lastmod>2020-11-09</lastmod>
+    <lastmod>2021-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://azusr.github.io/tags/hexo/</loc>
-    <lastmod>2020-11-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://azusr.github.io/tags/mysql/</loc>
-    <lastmod>2020-11-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://azusr.github.io/tags/%E6%9C%80%E5%A4%A7%E8%BF%9E%E6%8E%A5%E6%95%B0/</loc>
-    <lastmod>2020-11-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://azusr.github.io/tags/cluster/</loc>
-    <lastmod>2020-11-09</lastmod>
+    <lastmod>2021-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://azusr.github.io/tags/tags-demo1/</loc>
-    <lastmod>2020-11-09</lastmod>
+    <lastmod>2021-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://azusr.github.io/tags/tags-demo2/</loc>
-    <lastmod>2020-11-09</lastmod>
+    <lastmod>2021-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -161,49 +126,35 @@
   
   <url>
     <loc>https://azusr.github.io/categories/hexo/</loc>
-    <lastmod>2020-11-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://azusr.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2020-11-09</lastmod>
+    <lastmod>2021-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://azusr.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-11-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://azusr.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql/</loc>
-    <lastmod>2020-11-09</lastmod>
+    <lastmod>2021-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://azusr.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2020-11-09</lastmod>
+    <lastmod>2021-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://azusr.github.io/categories/%E5%B7%A5%E5%85%B7%E6%95%99%E7%A8%8B/%E4%B8%BB%E9%A2%98%E5%B7%A5%E5%85%B72/</loc>
-    <lastmod>2020-11-09</lastmod>
+    <lastmod>2021-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://azusr.github.io/categories/categories-demo/</loc>
-    <lastmod>2020-11-09</lastmod>
+    <lastmod>2021-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

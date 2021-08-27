@@ -6,7 +6,7 @@
   <link href="https://azusr.github.io/atom.xml" rel="self"/>
   
   <link href="https://azusr.github.io/"/>
-  <updated>2020-11-09T15:06:30.229Z</updated>
+  <updated>2020-10-14T12:16:03.542Z</updated>
   <id>https://azusr.github.io/</id>
   
   <author>
@@ -15,58 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>mysql 5.7 The target instance must be either cloned or fully provisioned before it can...</title>
-    <link href="https://azusr.github.io/2020/11/09/post-02-mysql/"/>
-    <id>https://azusr.github.io/2020/11/09/post-02-mysql/</id>
-    <published>2020-11-09T14:50:05.000Z</published>
-    <updated>2020-11-09T15:06:30.229Z</updated>
-    
-    <content type="html"><![CDATA[<hr><p>mysql 5.7 The target instance must be either cloned or fully provisioned before it can…</p><a id="more"></a><p>mysql5.7 集群掉线时重进加入集群，有时会报错The target instance must be either cloned or fully provisioned before it can…</p><p>mysql5.7 版本不支持以clone方式重新加入集群。</p><p>参考解决方案：</p><ol><li><p>清空无法加入集群节点的mysql.gtid_executed表（注意备份，无效是方便恢复找其他解决方案），若当前节点是只读节点，先重启本节点；</p></li><li><p>将当前集群可用节点的mysql.gtid_executed表中的数据复制到有问题的集群节点；</p></li><li><p>重启问题节点；</p></li><li><p>将问题节点重新加入集群。</p></li></ol><p>若以上方案无效，可尝试先将问题节点数据备份，再将正常节点数据导入问题节点，重新执行addInstance操作。</p>]]></content>
-    
-    
-    <summary type="html">&lt;hr&gt;
-&lt;p&gt;mysql 5.7 The target instance must be either cloned or fully provisioned before it can…&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="数据库" scheme="https://azusr.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="mysql" scheme="https://azusr.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql/"/>
-    
-    
-    <category term="mysql" scheme="https://azusr.github.io/tags/mysql/"/>
-    
-    <category term="cluster" scheme="https://azusr.github.io/tags/cluster/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>mysql连接报错Too many connections 1040</title>
-    <link href="https://azusr.github.io/2020/10/30/post-01-mysql/"/>
-    <id>https://azusr.github.io/2020/10/30/post-01-mysql/</id>
-    <published>2020-10-30T15:48:43.000Z</published>
-    <updated>2020-11-09T15:04:33.183Z</updated>
-    
-    <content type="html"><![CDATA[<hr><p>mysql 最大连接数错误处理“Can not connect to MySQL server. Too many connections”-mysql 1040 </p><a id="more"></a><p>若对连接数无要求可以直接重启数据库；</p><p><code>systemctl restart mysqld;</code></p><p>永久修改最大连接数：修改my.cnf中的max_connections，并重启mysql</p><p>临时修改最大连接数：</p><p>查看：<code>show variables like &#39;%max_connections%&#39;;</code></p><p>修改：<code>set GLOBAL max_connections = 1000;</code> </p><p>若需要排查原因，但是登陆不进去，可以用gdb指令修改进程中的参数：</p><p><code>gdb -p $&#123;/home/mysql/mysql.pid&#125; -ex &quot;set max_connections=1000&quot; -batch</code></p><p>便可连进去，查看当前连接：</p><p><code>SHOW PROCESSLIST;</code></p>]]></content>
-    
-    
-    <summary type="html">&lt;hr&gt;
-&lt;p&gt;mysql 最大连接数错误处理“Can not connect to MySQL server. Too many connections”-mysql 1040 &lt;/p&gt;</summary>
-    
-    
-    
-    <category term="数据库" scheme="https://azusr.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-    <category term="mysql" scheme="https://azusr.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql/"/>
-    
-    
-    <category term="mysql" scheme="https://azusr.github.io/tags/mysql/"/>
-    
-    <category term="最大连接数" scheme="https://azusr.github.io/tags/%E6%9C%80%E5%A4%A7%E8%BF%9E%E6%8E%A5%E6%95%B0/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>

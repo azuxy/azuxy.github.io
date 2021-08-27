@@ -1,4 +1,2 @@
-https://azusr.github.io/2020/11/09/post-02-mysql/
-https://azusr.github.io/2020/10/30/post-01-mysql/
 https://azusr.github.io/2019/09/19/%E6%B5%8B%E8%AF%95/
 https://azusr.github.io/2020/10/15/hello-world/
